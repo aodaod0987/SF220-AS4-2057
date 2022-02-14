@@ -1,0 +1,41 @@
+.header {
+  background-color: #398ab9;
+  border-bottom: 1px solid #e5e5e5;
+  padding: 0.5em;
+  font-size: 24px;
+  font-weight: bold;
+  padding: 10px;
+  text-align: center;
+  color: #ffffff;
+  border-radius: 50px 50px;
+}
+html,
+body {
+  background-color: #eeeeee;
+  margin: 0;
+  padding: 0;
+}
+.heading {
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  color: white;
+  background-color: #398ab9;
+  border-radius: 15px;
+  box-shadow: 0 9px #d8d2cb;
+}
+.topic {
+  padding: 15px 25px;
+  font-size: 24px;
+  color: white;
+  background-color: #39b9b9;
+  border-radius: 15px;
+  box-shadow: 0 9px #d8d2cb;
+  margin-right: auto;
+  margin-left: auto;
+  width: 15%;
+  text-align: center;
+}
+.img-circle {
+  border-radius: 25%;
+}
