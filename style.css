@@ -26,18 +26,16 @@ body {
   text-decoration: none;
 }
 
-
 .main-content {
   max-width: 600px;
   margin: auto;
 }
 .topic {
-  padding: 15px 25px;
+  padding: 10px 25px;
   font-size: 24px;
   color: white;
   background-color: #39b9b9;
   border-radius: 15px;
-  box-shadow: 0 9px #d8d2cb;
   margin-right: auto;
   margin-left: auto;
   width: 15%;
@@ -65,4 +63,17 @@ body {
 
 .image {
   width: 100%;
+}
+
+.head-image {
+  width: 40%;
+  margin-left: 30%;
+  border-radius: 25%;
+  box-shadow: 10px 10px 10px #3fcfe2;
+}
+
+.bottom-footer {
+  background-color: rgb(70, 165, 228);
+  padding: 5px;
+  text-align: center;
 }
